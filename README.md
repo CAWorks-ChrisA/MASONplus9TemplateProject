@@ -44,6 +44,8 @@ Eclipse and some older version of Java (above 8) should still work with these co
 
 1. Program your Agent Based Models.
 
+1. Save your VSCode Workspace (File -> Save Workspace as...) to a place you can find it.
+
 ## Known Issues
 
 - Previously Visual Studio Code for MacOS didn't have good compatibility with this template, but the code was refreshed using Prof Jeff Schank's Project on Eclipse, so it should work.
