@@ -43,3 +43,7 @@ Eclipse and some older version of Java (above 8) should still work with these co
 1. Change the name of the package using the VSC Java Project Manager: open your project in it, right click on the package: Rename, and let the plugin refactor the code for you.
 
 1. Program your Agent Based Models.
+
+## Known Issues
+
+- Previously Visual Studio Code for MacOS didn't have good compatibility with this template, but the code was refreshed using Prof Jeff Schank's Project on Eclipse, so it should work.
